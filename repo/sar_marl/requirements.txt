@@ -1,0 +1,5 @@
+numpy
+gymnasium
+pettingzoo
+torch
+matplotlib
